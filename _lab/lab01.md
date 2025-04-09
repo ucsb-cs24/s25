@@ -120,5 +120,6 @@ Submit **one file**:
 - Start early—debugging and plotting take time!  
 - Test small inputs first (`n ≤ 100`) to verify correctness.  
 - Use a consistent machine for timing (CSIL preferred).  
-- Reach out to TAs on Ed for clarification.  
+- Reach out to TAs on Ed for clarification.
+- FAQ document: https://docs.google.com/document/d/1FLdL3pMy3bimSAG1hb44OOWpwNxSfo0UV6di6wnpqfw/edit?usp=sharing
 
