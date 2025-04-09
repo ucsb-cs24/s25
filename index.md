@@ -16,6 +16,7 @@ title: "CS 24: Problem Solving with Computers-II , {{site.quarter}}"
 * **ULAs**: {{site.ulas}}
 * **Lectures**: {{ site.lecture_times}}, {{ site.lecture_location}} 
 * **Sections**: {{ site.lab_times}} in Phelps 3525
+  * [**Link to Section Slides**](https://drive.google.com/drive/folders/1GjEQMKPtB0NsbAab6D2mLV3r9eoc_Rbf?usp=sharing)
 
 <!-- * **Midterm exam**: Feb 14 (Wed) during class time
 * **Final exam**: Mar 21 (Thu), noon - 3p -->
