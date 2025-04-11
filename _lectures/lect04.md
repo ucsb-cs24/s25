@@ -6,7 +6,7 @@ ready: true
 pre-reading: "4.3 - 4.4, 5.1, 5.3"
 pdfurl: /lectures/BigThree.pdf
 annotatedpdfurl: /lectures/BigThree_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 # Code from lecture

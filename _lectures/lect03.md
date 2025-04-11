@@ -6,7 +6,7 @@ pre-reading: " 2.1 - 2.5, 3.1"
 ready: true
 pdfurl: /lectures/CS24_Lecture3.pdf
 annotatedpdfurl: /lectures/CS24_Lecture3_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Code from lecture
 
