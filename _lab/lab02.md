@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab02
-ready: false
+ready: true
 desc: "Implementing a linked list- OOP style"
 assigned: 2025-04-07 9:00:00.00-8
 due: 2025-04-18 23:59:00.00-8
@@ -216,13 +216,20 @@ error: need at least one int arg on command line
 usage: ./testlist int [int ...]
 ```
 
-This time, we'll run it properly. The `contains` method is used to checke for three values that ought to be in the list, plus one value that should not appear in the list. Here is a sample run with initial values of 5, 7, 9 and 11:
+Here is the proper usage.
 
 ```
 ./testlist 5 7 9 11
-List 1:
-   [5 7 9 11]
-   count: 4
+List 1: 
+zsh: segmentation fault  ./testlist 5 7 9 11
+```
+Make the minimum change to intlist.cpp so that you don't get a segfault and instead get the following output.
+
+```
+% ./testlist 5 7 9 11
+List 1: 
+   []
+   count: 0
    sum: 0
    contains 5 ? no
    contains 7 ? no
@@ -230,35 +237,33 @@ List 1:
    contains 0 ? no
    max: 0
    average: 0.000
-   List after insertFirst(sum):
-   [5 7 9 11]
-Empty list 2:
+   List after push_front(sum): 
+   []
+Empty list 2: 
    []
    count: 0
    sum: 0
    contains 1 ? no
    max: 0
    average: 0.000
-   List 2 after insertFirst(3), then insertFirst(1):
+   List 2 after push_front(3), then push_front(1): 
    []
 ```
-See that `append`, `print` and `count` all work. But the others need to be fixed. 
 
 Use an editor (e.g., emacs, vim, or VS Code) to make the following changes to `intlist.cpp` - do not change any of the other files.
 
 * Fix the comment at the top to show your name and the date.
-* Implement the `sum` method. See the count method for guidance.
-* Save, and then test your `sum` implementation - compile and execute `testlist` again. Verify `sum` is working before going on.
+* Write the other methods for the IntList class. All implementations should be in intlist.cpp.
+* Save, and then test each of your member function implementationx - compile and execute `testlist` again. Think about the order in which you should implement these functions.
 * Push your code to github using the `git add .`, `git commit`, and `git push` commands
-* Then implement the `contains` method, save again and test again.
-* Continue with the other three functions in the same way: implement and test one at a time. Don't implement the copy constructor, destructor, and assignment operator yet.
-
-Push your code to github often. 
+* Implement and test one at a time. Don't implement the copy constructor, destructor, and assignment operator yet.
+* Push your code to github often. 
 
 Here are correct results for the same sample data as above:
 
 ```
-List 1:
+./testlist 5 7 9 11
+List 1: 
    [5 7 9 11]
    count: 4
    sum: 32
@@ -268,16 +273,16 @@ List 1:
    contains 32 ? no
    max: 11
    average: 8.000
-   List after insertFirst(sum):
+   List after push_front(sum): 
    [32 5 7 9 11]
-Empty list 2:
+Empty list 2: 
    []
    count: 0
    sum: 0
    contains 1 ? no
    max: 0
    average: 0.000
-   List 2 after insertFirst(3), then insertFirst(1):
+   List 2 after push_front(3), then push_front(1): 
    [1 3]
 ```
 
