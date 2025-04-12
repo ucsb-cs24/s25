@@ -345,7 +345,10 @@ Do beware that all parts must be working to earn any points at all from the Grad
 
 Each student must accomplish the following to earn full credit for this lab:
 
-* [100 points] `intlist.cpp` is saved, it has your name(s) in a comment at the top, it compiles and executes properly, and has been submitted with a score of 100/100 to the Gradescope system.
+* Your code has your name(s) in a comment at the top, it compiles and executes properly, and has been submitted to the Gradescope system.
+* Your code should correctly compile and run locally on CSIL
+* If worked with a partner, add the partner in Gradescope and make a single submission.
+* Both partners should check that they have the same score on Gradescope. The CS24 staff are not responsible for incorrect submissions.
 
 
 
