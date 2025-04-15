@@ -4,8 +4,8 @@ num: "lect05"
 desc: "Week 3: Efficient search with Binary Search Trees"
 ready: true
 pre-reading: "12.1 (must read before class) 10.1 - 10.3"
-pdfurl: /lectures/CS24_Lecture4.pdf
-annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
+pdfurl: /lectures/CS24_BST_part1.pdf
+annotatedpdfurl: /lectures/CS24_BST_part1_ann.pdf
 annotatedready: false
 ---
 
