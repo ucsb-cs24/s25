@@ -12,6 +12,8 @@ annotatedready: false
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
+Handout: <https://drive.google.com/file/d/1Ja0vfrdtBSGI4bnUBknswWZdjLr5StP1/view?usp=sharing> 
+
 # Topics
 * Efficient search using binary search
 * Binary trees
