@@ -1,7 +1,7 @@
 ---
 lecture_date: 2025-04-17
 num: "lect06"
-desc: "Week 3: Binary (Search) Tree traversals"
+desc: "Week 3: Tree traversals"
 ready: true
 pre-reading: "10.4, 10.5"
 pdfurl: /lectures/CS24_BST_part2.pdf

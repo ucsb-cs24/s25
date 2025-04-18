@@ -1,20 +1,22 @@
 ---
 lecture_date: 2025-05-01
 num: "lect10"
-desc: "Week 5: C++ STL set and map ADT (balanced BST), Iterators"
+desc: "Week 5: Heapify and Heapsort"
 ready: true
-pre-reading: "3.1 - 3.3"
-pdfurl: /lectures/CS24_Lecture10.pdf
-annotatedpdfurl: /lectures/CS24_Lecture10_ann.pdf
+pre-reading: "13.3"
+pdfurl: /lectures/CS24_Lecture16.pdf
+annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
 annotatedready: false
 ---
 
-# Code from lecture
+## Code written in class
+
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-# Topics
-* Practice with the C++ set and map STL container classes
-* Under the hood of the range-based for loop (C++ iterators)
-* Applications of set and map to coding problems: <https://leetcode.com/problems/merge-similar-items/>
+Link to inclass handout <https://bit.ly/CS24-Heaps-lect15>
+Make a copy and work to complete the exercises in class
 
-
+## Topics
+* We'll look at how to iteratively improve the performance of sorting
+* Application of priority_queue (ADT - max heap)
+* Implementing the heap sort algorithm

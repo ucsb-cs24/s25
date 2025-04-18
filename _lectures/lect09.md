@@ -1,9 +1,9 @@
 ---
 lecture_date: 2025-04-29
 num: "lect09"
-desc: "Week 5: Priority Queues (Heaps) "
+desc: "Week 5: Queues and Priority Queues (Heaps) "
 ready: true
-pre-reading: "11.1 - 11.2"
+pre-reading: "8.1 - 8.4, 11.1 - 11.2"
 pdfurl: /lectures/CS24_Lecture9.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
 annotatedready: false
