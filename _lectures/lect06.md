@@ -6,7 +6,7 @@ ready: true
 pre-reading: "10.4, 10.5"
 pdfurl: /lectures/CS24_BST_part2.pdf
 annotatedpdfurl: /lectures/CS24_BST_part2_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 # Code from lecture

@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Binary Search Tree"
-assigned: 2024-04-15 9:00:00.00-8
-due: 2024-04-26 23:59:00.00-8
+assigned: 2025-04-18 9:00:00.00-8
+due: 2025-04-25 23:59:00.00-8
 ---
 
 # Goals for this lab
@@ -24,7 +24,7 @@ All work submitted for this lab should be your own. If you are using any hints f
 ## Step by Step Instructions
 
 ## Step 0: Create a git repo and get the starter code
-Refer to lab01 for instructions on how to set up a GitHub repository and pull the starter code for this lab. Here is the link for this lab's starter code: <   <https://github.com/{{site.class_org.name}}/STARTER-{{page.num}}>
+Refer to lab01 for instructions on how to set up a GitHub repository and pull the starter code for this lab. Here is the link for this lab's starter code: <https://github.com/{{site.class_org.name}}/STARTER-{{page.num}}>
 
 
 ## Step 0a: Get the starter code and create a Makefile
@@ -100,8 +100,6 @@ Next, the destructor function, which uses a helper function called clear.
 Now that we have the foundations for creating an object of IntBST, scroll to the print functions. Inside IntBST.h, you will notice there are both public and private implementations of the functions printPreOrder, printInOrder and printPostOrder. The private functions will be used as helpers to their public counterparts. Your job in this step is to implement all of them, public and private.
 After you finish, save and then test your print implementations: compile and execute testbst again, choosing either all tests or just one of your print functions to test.
 Here are the correct results (abbreviated to show just the print orders):
-
-BST:
 
   pre-order: 64 8 4 32 16 128 512 256
 
