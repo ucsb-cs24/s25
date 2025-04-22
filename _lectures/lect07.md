@@ -17,7 +17,8 @@ annotatedready: false
 * Iterators: Abstraction for iterating through data structures
 * Implement an iterator for the custom BST class and solve related problems
 
-Handout is included in the pdf of the slides.
+Link to handout <https://docs.google.com/document/d/1_ho9TbXWU7d4MGrcsihm02BfMNyFKzitxiRW-v65G2g/edit?usp=sharing>
+Handout is also included in the pdf of the slides.
 
 Related leetcode problem: <https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=problem-list-v2&envId=iterator>
 
