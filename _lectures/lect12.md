@@ -1,11 +1,10 @@
 ---
 lecture_date: 2025-05-13
 num: "lect12"
-desc: "Week 7: Graph representation with applications to Neural Networks"
-ready: true
-pre-reading: "15.1 - 15.2"
-pdfurl: /lectures/CS24_Lecture12.pdf
-annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
+desc: "Week 7: Hashtables, C++ unordered_set and unordered_map ADT"
+ready: false
+pdfurl: /lectures/CS24_Lecture11.pdf
+annotatedpdfurl: /lectures/CS24_Lecture11_ann.pdf
 annotatedready: false
 ---
 
@@ -13,10 +12,8 @@ annotatedready: false
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 # Topics
-* Graphs: terminology and applications
-* Size of graphs, dense vs. sparse graphs
-* Representation: adjacency matrix vs. adjacency list (space complexity)
-* Connections to implementing a neural network (topic for lab07)
-* Lab07 starter code for in class activity: <https://github.com/ucsb-cs24-w24/STARTER-lab07>
-
+* Practical significance of hashtables
+* Conceptual understanding and design considerations
+* Hashtables and hashmaps in practice
+* Applications of unordered_set and underdered_map to coding problems
 

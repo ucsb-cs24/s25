@@ -1,11 +1,11 @@
 ---
 lecture_date: 2025-05-22
 num: "lect15"
-desc: "Week 8: Sorting: selectionsort and mergesort"
+desc: "Week 8: Running time analysis of BFS and DFS"
 ready: true
-pre-reading: "13.1 - 13.2"
-pdfurl: /lectures/CS24_Lecture15.pdf
-annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
+pre-reading: "15.4"
+pdfurl: /lectures/CS24_Lecture14.pdf
+annotatedpdfurl: /lectures/CS24_Lecture14_ann.pdf
 annotatedready: false
 ---
 
@@ -13,10 +13,8 @@ annotatedready: false
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 # Topics
-* Divide and Conquer Algorithms
- - Subdivide a larger problem into smaller problems
- - Solve each smaller part
- - Combine solutions of smaller sub problems back into the larger problem
+* We'll play a game to help analyze the running time of BFS.
+* Link to handout: <https://bit.ly/CS24-W24-Graph-Search-Complexity-Handout>
+* Link to Leetcode practice problem: <https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/>
 
-* Sorting: So far we covered selection sort which runs in O(n^2) 
-* Today we will learn about Merge Sort, which runs in O(n log n)
+

@@ -1,11 +1,11 @@
 ---
 lecture_date: 2025-05-15
 num: "lect13"
-desc: "Week 7: Graph search: Breadth and Depth first traversal"
+desc: "Week 7: Graph representation with applications to Neural Networks"
 ready: true
-pre-reading: "15.3"
-pdfurl: /lectures/CS24_Lecture13.pdf
-annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
+pre-reading: "15.1 - 15.2"
+pdfurl: /lectures/CS24_Lecture12.pdf
+annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
 annotatedready: false
 ---
 
@@ -13,9 +13,10 @@ annotatedready: false
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 # Topics
-* Neural Network representation
-* Graph search - BFS
-
-* Continue to implementing the graph ADT (in class exercise), link to handout: <https://bit.ly/CS24W24-GraphsHandout>
+* Graphs: terminology and applications
+* Size of graphs, dense vs. sparse graphs
+* Representation: adjacency matrix vs. adjacency list (space complexity)
+* Connections to implementing a neural network (topic for lab07)
+* Lab07 starter code for in class activity: <https://github.com/ucsb-cs24-w24/STARTER-lab07>
 
 
