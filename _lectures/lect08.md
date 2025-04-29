@@ -6,7 +6,7 @@ ready: true
 pre-reading: "1.2"
 pdfurl: /lectures/CS24_Complexity_Analysis.pdf
 annotatedpdfurl: /lectures/CS24_Complexity_Analysis_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
