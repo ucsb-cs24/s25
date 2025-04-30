@@ -14,5 +14,5 @@ This lab must be done individually. Note that this lab is only for practice and 
 ## Description
 Please navigate to lab04 on gradescope and work to complete the Big-O practice problems provided.
 
-# Additional practice problems 
+# Additional practice problems (optional) 
 Refer back to previous labs and leetcode problems that you have solved so far and analyze the space and time complexity of your solution to each problem.
