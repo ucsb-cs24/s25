@@ -6,7 +6,7 @@ ready: true
 pre-reading: "7.1 - 7.4"
 pdfurl: /lectures/CS24_Stacks.pdf
 annotatedpdfurl: /lectures/CS24_Stacks_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
