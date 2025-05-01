@@ -11,7 +11,7 @@ annotatedready: false
 
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-Link to inclass handout <https://bit.ly/CS24_binaryheap>
+Link to inclass handout <https://bit.ly/CS24-binaryheap>
 Make a copy and work to complete inclass activities
 
 ## Topics
