@@ -12,7 +12,7 @@ annotatedready: false
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
 ## Handout
-Link to handout: <https://docs.google.com/document/d/1Xr-t6lFovC20veJhmvGlDEfknw147XIiJWg3cZ7nmyA/edit?usp=sharing>
+Link to handout: <https://bit.ly/CS24_Queue>
 
 ## Topics
 * Queues with applications to Breadth First Traversal

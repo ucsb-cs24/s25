@@ -1,7 +1,7 @@
 ---
 lecture_date: 2025-05-06
 num: "lect11"
-desc: "Week 6: Priority Queues (Heaps) "
+desc: "Week 6: Binary Heaps and Priority Queues"
 ready: true
 pre-reading: "11.1 - 11.2"
 pdfurl: /lectures/CS24_Lecture9.pdf
