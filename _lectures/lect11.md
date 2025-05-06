@@ -4,7 +4,7 @@ num: "lect11"
 desc: "Week 6: Binary Heaps and Priority Queues"
 ready: true
 pre-reading: "11.1 - 11.2"
-pdfurl: /lectures/CS24_Lecture9.pdf
+pdfurl: /lectures/CS24_BinaryHeap.pdf
 annotatedpdfurl: /lectures/CS24_Lecture9_ann.pdf
 annotatedready: false
 ---
