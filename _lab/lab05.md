@@ -1,23 +1,21 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "Implementing a min-heap"
 assigned: 2025-05-09 9:00:00.00-8
 due: 2025-05-23 23:59:00.00-8
 ---
 
 # Collaboration policy
-The lab may be done solo. 
+The lab may be done solo or with a partner. 
 
 # Goals for this lab
 
 By the time you have completed this lab, you should be able to
 
 * Understand the purpose and behavior of a priority queue
-* Understand how to implement an array-based heap
-
-This lab may be done with a partner
+* Understand how to implement a vector-based binary heap implementation.
 
 ## Step by Step Instructions
 
@@ -25,7 +23,7 @@ This lab may be done with a partner
 ## Step 1: Get the starter code
 Use scp to copy the starter code from CSIL from the following directory:
 
-<https://github.com/ucsb-cs24-f23/STARTER-lab05>
+<https://github.com/ucsb-cs24-s25/STARTER-binaryheaplab/>
 
 
 You should have the following files:
