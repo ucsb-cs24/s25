@@ -6,7 +6,7 @@ ready: true
 pre-reading: "8.1 - 8.4"
 pdfurl: /lectures/CS24_Queues.pdf
 annotatedpdfurl: /lectures/CS24_Queues_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
