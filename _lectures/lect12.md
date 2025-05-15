@@ -6,6 +6,7 @@ ready: true
 pdfurl: /lectures/CS24_Hashtables.pdf
 annotatedpdfurl: /lectures/CS24_Lecture11_ann.pdf
 annotatedready: false
+pre-reading: "Prof. Suri's CS 130A handout"
 ---
 
 # Code from lecture
