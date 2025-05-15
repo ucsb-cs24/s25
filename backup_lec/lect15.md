@@ -1,7 +1,7 @@
 ---
 lecture_date: 2025-05-22
 num: "lect15"
-desc: "Week 8: Running time analysis of BFS and DFS"
+desc: "Week 9: Running time analysis of BFS and DFS"
 ready: true
 pre-reading: "15.4"
 pdfurl: /lectures/CS24_Lecture14.pdf

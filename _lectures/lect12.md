@@ -1,5 +1,5 @@
 ---
-lecture_date: 2025-05-13
+lecture_date: 2025-05-15
 num: "lect12"
 desc: "Week 7: Hashtables: from theory to practice"
 ready: true

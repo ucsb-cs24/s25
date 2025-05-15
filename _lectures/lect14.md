@@ -1,9 +1,9 @@
 ---
-lecture_date: 2025-05-20
+lecture_date: 2025-05-22
 num: "lect14"
 desc: "Week 8: Graph search: Breadth and Depth first traversal"
 ready: true
-pre-reading: "15.3"
+pre-reading: "15.3- 15.4"
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: false

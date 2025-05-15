@@ -1,7 +1,7 @@
 ---
-lecture_date: 2025-05-15
+lecture_date: 2025-05-20
 num: "lect13"
-desc: "Week 7: Graph representation with applications to Neural Networks"
+desc: "Week 8: Graph representation with applications to Neural Networks"
 ready: true
 pre-reading: "15.1 - 15.2"
 pdfurl: /lectures/CS24_Lecture12.pdf
