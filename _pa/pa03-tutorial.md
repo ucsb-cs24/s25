@@ -1,6 +1,6 @@
 ---
 num: pa03-tutorial
-ready: false
+ready: true
 desc: "A Gentle Introduction to Graphs and Neural Networks"
 ---
 
@@ -22,7 +22,7 @@ We can understand this better by seeing which limitations the binary tree puts o
 ###### The power of a Graph
 Now, let's go back to talking about the generic graph structure. 
 
-![NeuralNetwork Example]({{site.baseurl}}/lab/lab07/assets/generic_weighted_directed_graph.svg)
+![NeuralNetwork Example](assets/generic_weighted_directed_graph.svg)
 
 Take a moment to study this image, and understand the components of the structure. A good idea would be to think about how this generic graph is represented in code with an adjacency list. 
 
@@ -51,7 +51,7 @@ Just as we did before with the Binary Tree structure, let's outline the specific
 - Typically, all nodes of a layer share the same activation function. 
 
 Here is a diagram which outlines this structure:
-![NeuralNetwork Example]({{site.baseurl}}/lab/lab07/assets/generic_neural_net.svg)
+![NeuralNetwork Example](assets/generic_neural_net.svg)
 
 ##### Making Predictions
 For a neural network, the collections of weights and biases serves as the model, or as explained earlier - the mechanism in which we make a prediction. We insert the input into each node of the input layer. This diagram takes in two inputs, since there are two nodes in the input layer, each node gets a different input. The value is then transformed by each weight as it "flows" to the next layer. Once it reaches the next layer, it again gets transformed by the bias and activation function - in that order. After this, the same process happens as it flows to the next layer. In this example, it flows until it has been transformed by the output layer, which leaves the value in a state we interpret as a prediction. 
@@ -95,7 +95,7 @@ In general, for any ```delta``` $d$, $d$ is in the form $f_1f_2$, where $f_1$ is
 
 
 Here is a nifty little gif that depicts these processes. You can see how the input flows through the graph, and how the nodes are activated, as well as how the error gets propagated backward. 
-![Prediction and Backprop]({{site.baseurl}}/lab/lab07/assets/backprop.gif)
+![Prediction and Backprop](assets/backprop.gif)
 
 ### External Resources
 
