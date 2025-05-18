@@ -20,6 +20,6 @@ Watch the first 5 minutes of this intro video to Neural Networks: <https://youtu
 * Connections to implementing a neural network (topic for pa03)
 * Visualizing how a neural net is stored in memory and supporting data structures
 * Designing the Graph class to allow building the graph iteratively by calling functions to add nodes and edges.
-* PA03 starter code for in class activity: <https://github.com/ucsb-cs24-w24/STARTER-lab07>
+* PA03 starter code for in class activity: <https://github.com/ucsb-cs24-s25/STARTER-pa03>
 
 
