@@ -36,7 +36,7 @@ title: "CS 24: Problem Solving with Computers-II , {{site.quarter}}"
 
 ### Mock Interviews
 Instructions are available in the related assignment on Canvas: <https://ucsb.instructure.com/courses/25665/assignments/358212>
-Book your Mock interview no later than Friday May 23 using the booking pages linked below. 
+Book your Mock interview no later than Tuesday May 20 using the booking pages linked below. 
 * <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1KxeLtU1x8IiCHPviMjcICLoy1yiIihTG-32XumGnYQngS2FYctaggVD4eV5jQApg0zgA45aUv">Booking table 1 </a>
 * <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ28H5HXdQJt9e8Pw_KBnuXhrfr12qgi-x9xLyBwHnkJavNMU4ADl7Z1u0SXXKmwj0zHz5TIEXUK">Booking table 2 </a>
 
