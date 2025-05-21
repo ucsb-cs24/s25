@@ -107,7 +107,7 @@ Here is a nifty little gif that depicts these processes. You can see how the inp
 You are not required to understand the math behind gradient descent, but if you are interested, this is a great resource:
 - StatQuest - Gradient Descent: <https://www.youtube.com/watch?v=sDv4f4s2SB8>
 
-###### Neural Networks
+###### Neural Networks: Required videos to watch
 Here are some great resources to help you out. I would say that statquest has great videos to understand the implementation of neural network structures, whereas 3blue1brown is more conceptual based:
 - StatQuest - Neural Network Basics (great for understanding the prediction algorithm): <https://youtu.be/CqOfi41LfDw?si=8waS2U01uMWcpH2i>
 - StatQuest - Back Propagation (great for understanding the contribute algorithm): <https://youtu.be/IN2XmBhILt4?si=bnDft-3T4DQ2iO9X>
