@@ -4,8 +4,8 @@ num: "lect12"
 desc: "Week 7: Hashtables: from theory to practice"
 ready: true
 pdfurl: /lectures/CS24_Hashtables.pdf
-annotatedpdfurl: /lectures/CS24_Lecture11_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24_Hashtables_ann.pdf
+annotatedready: true
 pre-reading: "Prof. Suri's CS 130A handout"
 ---
 

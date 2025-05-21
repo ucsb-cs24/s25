@@ -5,8 +5,8 @@ desc: "Week 8: Graph representation with applications to Neural Networks"
 ready: true
 pre-reading: "15.1 - 15.2"
 pdfurl: /lectures/CS24_Graph_Representation.pdf
-annotatedpdfurl: /lectures/CS24_Lecture12_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24_Graph_Representation_ann.pdf
+annotatedready: true
 ---
 
 # Code from lecture
