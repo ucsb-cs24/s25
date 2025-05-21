@@ -1,22 +1,22 @@
 ---
 lecture_date: 2025-05-29
 num: "lect17"
-desc: "Week 9: Heapify and Heapsort"
+desc: "Week 9: Sorting: selectionsort and mergesort"
 ready: true
-pre-reading: "13.3"
-pdfurl: /lectures/CS24_Lecture16.pdf
-annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
+pre-reading: "13.1 - 13.2"
+pdfurl: /lectures/CS24_Lecture15.pdf
+annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
 annotatedready: false
 ---
 
-## Code written in class
-
+# Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-Link to inclass handout <https://bit.ly/CS24-Heaps-lect15>
-Make a copy and work to complete the exercises in class
+# Topics
+* Divide and Conquer Algorithms
+ - Subdivide a larger problem into smaller problems
+ - Solve each smaller part
+ - Combine solutions of smaller sub problems back into the larger problem
 
-## Topics
-* We'll look at how to iteratively improve the performance of sorting
-* Application of priority_queue (ADT - max heap)
-* Implementing the heap sort algorithm
+* Sorting: So far we covered selection sort which runs in O(n^2) 
+* Today we will learn about Merge Sort, which runs in O(n log n)

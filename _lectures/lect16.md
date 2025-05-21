@@ -1,22 +1,25 @@
 ---
 lecture_date: 2025-05-27
 num: "lect16"
-desc: "Week 9: Sorting: selectionsort and mergesort"
+desc: "Week 9: Graph search: Complexity analysis and Neural Net Algos"
 ready: true
-pre-reading: "13.1 - 13.2"
-pdfurl: /lectures/CS24_Lecture15.pdf
-annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
+pre-reading: " Required videos in pa03 tutorial"
+pdfurl: /lectures/CS24_Lecture13.pdf
+annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: false
 ---
 
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-# Topics
-* Divide and Conquer Algorithms
- - Subdivide a larger problem into smaller problems
- - Solve each smaller part
- - Combine solutions of smaller sub problems back into the larger problem
+# Preclass videos to watch
+* StatQuest - Neural Network Basics (great for understanding the prediction algorithm): <https://youtu.be/CqOfi41LfDw?si=8waS2U01uMWcpH2i>
+* StatQuest - Back Propagation (great for understanding the contribute algorithm): <https://youtu.be/IN2XmBhILt4?si=bnDft-3T4DQ2iO9X>
+* 3Blue1Brown - <https://youtu.be/aircAruvnKk?si=KZt2AsbD7URc58-L>
 
-* Sorting: So far we covered selection sort which runs in O(n^2) 
-* Today we will learn about Merge Sort, which runs in O(n log n)
+# Topics
+* Complexity Analysis of graph representation using adjacency list
+* Connecting BFS/DFS to prediction and training in neuralnets
+
+
+
