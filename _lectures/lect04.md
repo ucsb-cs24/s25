@@ -13,6 +13,9 @@ annotatedready: true
 
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
+# Handout
+
+Big Four handout: <https://docs.google.com/document/d/11b57oL32Ph57xF7eKFXFcoYKayNim4X3HK6VuOprce8/edit?usp=sharing>
 
 # Topics
 Recursion, dynamic memory errors, rule of three!
