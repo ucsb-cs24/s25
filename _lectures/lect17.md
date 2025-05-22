@@ -1,6 +1,6 @@
 ---
 lecture_date: 2025-05-29
-num: "lect17"
+num: "lect16"
 desc: "Week 9: Sorting: selectionsort and mergesort"
 ready: true
 pre-reading: "13.1 - 13.2"

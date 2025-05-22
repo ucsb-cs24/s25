@@ -1,6 +1,6 @@
 ---
 lecture_date: 2025-05-27
-num: "lect16"
+num: "lect15"
 desc: "Week 9: Graph search: Complexity analysis and Neural Net Algos"
 ready: true
 pre-reading: " Required videos in pa03 tutorial"

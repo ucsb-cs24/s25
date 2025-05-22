@@ -1,6 +1,6 @@
 ---
 lecture_date: 2025-06-03
-num: "lect18"
+num: "lect17"
 desc: "Week 10: Interview Practice"
 ready: false
 pre-reading: ""

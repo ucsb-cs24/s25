@@ -1,6 +1,6 @@
 ---
 lecture_date: 2025-06-05
-num: "lect19"
+num: "lect18"
 desc: "Week 10: Final Wrapup"
 ready: true
 pdfurl: /lectures/CS24_Lecture19.pdf

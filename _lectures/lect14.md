@@ -4,7 +4,7 @@ num: "lect14"
 desc: "Week 8: Graph search: Breadth and Depth first traversal"
 ready: true
 pre-reading: "15.3- 15.4"
-pdfurl: /lectures/CS24_Lecture13.pdf
+pdfurl: /lectures/CS24_Graph_Search.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: false
 ---
@@ -12,10 +12,11 @@ annotatedready: false
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-# Topics
-* Neural Network representation
-* Graph search - BFS
+# Lecture Handout
+* <https://bit.ly/GraphSearch-BFS-DFS>
 
-* Continue to implementing the graph ADT (in class exercise), link to handout: <https://bit.ly/CS24W24-GraphsHandout>
+# Topics
+* Graph search - BFS and DFS
+* Related leetcode problem Rooms and Keys: <https://leetcode.com/problems/keys-and-rooms/description/>
 
 
