@@ -10,7 +10,7 @@ annotatedready: false
 ---
 
 # Code from lecture
-We will review Pa03 starter code: <https://github.com/ucsb-cs24-s25/STARTER-pa03/blob/main/NeuralNetwork.cpp>
+We will review PA03 starter code: <https://github.com/ucsb-cs24-s25/STARTER-pa03/blob/main/NeuralNetwork.cpp>
 
 
 # Class handout
