@@ -5,8 +5,8 @@ desc: "Week 8: Graph search: Breadth and Depth first traversal"
 ready: true
 pre-reading: "15.3- 15.4"
 pdfurl: /lectures/CS24_Graph_Search.pdf
-annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24_Graph_Search_ann.pdf
+annotatedready: true
 ---
 
 # Code from lecture
