@@ -1,10 +1,10 @@
 ---
 lecture_date: 2025-05-29
 num: "lect16"
-desc: "Week 9: Sorting: selectionsort and mergesort"
+desc: "Week 9: Mergesort"
 ready: true
 pre-reading: "13.1 - 13.2"
-pdfurl: /lectures/CS24_Lecture15.pdf
+pdfurl: /lectures/CS24_MergeSort.pdf
 annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
 annotatedready: false
 ---
@@ -18,5 +18,5 @@ annotatedready: false
  - Solve each smaller part
  - Combine solutions of smaller sub problems back into the larger problem
 
-* Sorting: So far we covered selection sort which runs in O(n^2) 
-* Today we will learn about Merge Sort, which runs in O(n log n)
+* Mergesort as an example of efficient sorting algo that uses the divide and conquer approach and runs in O(n log n)
+* Leetcode problem: <https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/>
