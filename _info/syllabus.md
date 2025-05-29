@@ -76,7 +76,8 @@ Complete 10 medium LeetCode problems from the assigned list (on the course websi
 - **Setup**: Create a LeetCode account (format: `DS_[YourInitials]_[RandomNumber]`, e.g., `DS_JD_1234`).
 - **Submission**: By Monday, Week 2, 11:59 PM, submit a Google Form (link on lab01) with your name, ID, and profile link.
 - **Task**: Solve 10 problems, with at least one from each of the problem sets provided, by Friday, Week 9, 11:59 PM and complete one mock interview with TAs/LAs by the last office hour on Friday, Week 10.
-- **Grading**: Grade = (Accepted solutions / 10) * 10%, with at least 10 attempts (by the end of week 9) and completion of mock interview required for credit (e.g., 8/10 = 8%; < 10 attempted OR mock interview not completed = 0%).
+- **Grading**: Grade for leetcode (5%) = (Accepted solutions / 10) * 10%, with at least 10 attempts (by the end of week 9) and completion of mock interview required for credit (e.g., 8/10 = 8%; < 10 attempted OR mock interview not completed = 0%).
+Grade for mock interview = 5%
 - **Monitoring**: Progress may be checked (e.g., Week 5), but only the final count matters.
 
 Schedule your mock interview early (signup form will be made available by week 2)
