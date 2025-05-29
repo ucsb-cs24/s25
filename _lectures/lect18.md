@@ -1,10 +1,10 @@
 ---
 lecture_date: 2025-06-03
 num: "lect17"
-desc: "Week 10: Interview Practice"
-ready: false
+desc: "Week 10: Complexity Analysis of BFS and DFS + review"
+ready: true
 pre-reading: ""
-pdfurl: /lectures/CS24_Lecture18.pdf
+pdfurl: /lectures/CS24_GraphSearchComplexity.pdf
 annotatedpdfurl: /lectures/CS24_Lecture18_ann.pdf
 annotatedready: false
 ---
