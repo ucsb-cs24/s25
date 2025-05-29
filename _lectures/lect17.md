@@ -1,7 +1,7 @@
 ---
 lecture_date: 2025-05-29
 num: "lect16"
-desc: "Week 9: Mergesort"
+desc: "Week 9: Mergesort: Divide and Conquer"
 ready: true
 pre-reading: "13.1 - 13.2"
 pdfurl: /lectures/CS24_MergeSort.pdf
