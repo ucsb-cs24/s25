@@ -5,8 +5,8 @@ desc: "Week 9: (PA03) DFS based backpropagation"
 ready: true
 pre-reading: " Required videos in pa03 tutorial"
 pdfurl: /lectures/CS24-NNBackprop.pdf
-annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24-NNBackprop_ann.pdf
+annotatedready: true
 ---
 
 # Code from lecture
