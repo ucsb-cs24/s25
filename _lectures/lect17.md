@@ -5,8 +5,8 @@ desc: "Week 9: Mergesort: Divide and Conquer"
 ready: true
 pre-reading: "13.1 - 13.2"
 pdfurl: /lectures/CS24_MergeSort.pdf
-annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24_MergeSort_ann.pdf
+annotatedready: true
 ---
 
 # Code from lecture
