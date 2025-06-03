@@ -22,7 +22,7 @@ You should again focus on solving the problems discussed in class and in handout
 
 Focus especially on:
 
-Conceptual underpinnings (e.g., why BFS works the way it does)
+Conceptual underpinnings (e.g., why BFS works the way it does, why do BFS and DFS have linear running time complexity)
 
 Common pitfalls and edge cases
 
