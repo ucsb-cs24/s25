@@ -10,9 +10,9 @@ ready: false
 1. Start with Leetcode Sets – Go in Reverse Order
 Begin with lp05 (graph search) and work your way back to lp01 (linked lists).
 
-- Try to solve each problem within ~20 minutes.
+    - Try to solve each problem within ~20 minutes.
 
-- If a problem is tricky or taking too long (e.g., >1 hour), skip it for now and circle back later. Don’t get stuck in a time sink.
+    - If a problem is tricky or taking too long (e.g., >1 hour), skip it for now and circle back later. Don’t get stuck in a time sink.
 
 2. After solving a few problems in each problem set, review lectures materials
 Go back to the slides, handouts, and code that relate to the topic you just practiced.
@@ -20,36 +20,36 @@ You should again focus on solving the problems discussed in class and in handout
 
 3. Use recorded lecture videos strategically: If you need a refresher, review relevant sections of the recorded lectures on that topic. Ask questions on office hours or on Ed. I expect you have a thorough understanding of all material covered in lectures. 
 
-Focus especially on:
+    - Focus especially on:
 
-Conceptual underpinnings (e.g., why BFS works the way it does, why do BFS and DFS have linear running time complexity)
+    - Conceptual underpinnings (e.g., why BFS works the way it does, why do BFS and DFS have linear running time complexity)
 
-Common pitfalls and edge cases
+    - Common pitfalls and edge cases
 
-Code patterns and key implementation details
+    - Code patterns and key implementation details
 
 4. Use Your Labs and Projects Strategically
 Each lab/project reinforces real-world applications of core data structures and how to work with the C++ STL. Here’s what to do:
 
-Skim your submissions (labs and PAs) and remind yourself:
+    Skim your submissions (labs and PAs) and remind yourself:
 
-- What problem you were solving?
+    - What problem you were solving?
 
-- Which data structures you used and why?
+    - Which data structures you used and why?
 
-- Any implementation issues you ran into
+    - Any implementation issues you ran into
 
-Focus especially on:
+    Focus especially on:
 
-* lab02/lab03 for Linked Lists and BSTs
+    * lab02/lab03 for Linked Lists and BSTs
 
-* lab05 for Heaps
+    * lab05 for Heaps
 
-* pa01 for applying BSTs in a game
+    * pa01 for applying BSTs in a game
 
-* pa02 and pa03 for applied, multi-structure problem-solving
+    * pa02 and pa03 for applied, multi-structure problem-solving
 
-* lab04 and lab06 for complexity analysis
+    * lab04 and lab06 for complexity analysis
 
 5. Consolidate Key Concepts
 Make a quick personal reference sheet (or flashcards) for:
