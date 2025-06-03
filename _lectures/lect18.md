@@ -1,7 +1,7 @@
 ---
 lecture_date: 2025-06-03
 num: "lect17"
-desc: "Week 10: Complexity Analysis of BFS and DFS + review"
+desc: "Week 10: Priority Queue Review + Complexity Analysis of BFS and DFS"
 ready: true
 pre-reading: ""
 pdfurl: /lectures/CS24_PQ-GraphSearchComplexity.pdf
