@@ -1,9 +1,13 @@
 ---
 num: "e02"
 lecture_date: 2025-06-09
-desc: "Final Exam: noon - 3p"
+desc: "Final Exam Instructions and Study Tips"
 ready: false
 ---
+## Final Exam Logistics
+- Time and location: noon - 3p on Monday 2025-06-09
+- Seating will be assigned, link will appear here and on Ed
+- Closed book closed notes.
 
 ## Tips for studying for the final exam
 
