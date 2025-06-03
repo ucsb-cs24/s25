@@ -4,7 +4,7 @@ num: "lect17"
 desc: "Week 10: Complexity Analysis of BFS and DFS + review"
 ready: true
 pre-reading: ""
-pdfurl: /lectures/CS24_GraphSearchComplexity.pdf
+pdfurl: /lectures/CS24_PQ-GraphSearchComplexity.pdf
 annotatedpdfurl: /lectures/CS24_Lecture18_ann.pdf
 annotatedready: false
 ---
