@@ -5,7 +5,7 @@ desc: "Final Exam: noon - 3p"
 ready: false
 ---
 
-Tips for studying for the final exam
+## Tips for studying for the final exam
 
 1. Start with Leetcode Sets – Go in Reverse Order
 Begin with lp05 (graph search) and work your way back to lp01 (linked lists).
