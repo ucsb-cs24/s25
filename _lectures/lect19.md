@@ -1,9 +1,9 @@
 ---
 lecture_date: 2025-06-05
 num: "lect18"
-desc: "Week 10: Final Wrapup"
+desc: "Week 10: Final Practice"
 ready: true
-pdfurl: /lectures/CS24_Lecture19.pdf
+pdfurl: /lectures/CS24_FinalPractice.pdf
 annotatedpdfurl: /lectures/CS24_Lecture19_ann.pdf
 annotatedready: false
 ---
@@ -11,10 +11,13 @@ annotatedready: false
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
 
-# Topics
-* Resources available to prepare for final exam: Past exams (Canvas), practice problems (github course site), lecture code <https://github.com/ucsb-cs24-w24/cs24-w24-lectures>
-* Review DFS and how to modify to find path to a node
-* Discuss approach to solving new problems
-* Practice: <https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/>
+## Handout
+* Link to handout: <https://bit.ly/one-problem-to-rule-them-all>
+
+## Topics
+* Resources available to prepare for final exam: Trimmed leetcode problems, optional challenge questions will not be on the exam.
+* We'll solve the Longest Consecutive Sequence Problem in as many ways as we can!
+* Link to problem: <https://leetcode.com/problems/longest-consecutive-sequence/description/>
+* Please fill out the course evaluations: <https://go.blueja.io/WD3FDfJ2QUqKjETiskpCNw>
 
 

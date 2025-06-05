@@ -69,7 +69,7 @@ Use Ed for Q&A (link on Canvas). Post public questions when applicable; for codi
 - **Midterm**: 25%
 - **Final Exam**: 35%
 
-A **minimum 65% on the final exam** is required to pass, ensuring core concept mastery. Below 65%, your grade is capped at D unless special circumstances apply (contact instructor). Letter grades (A, B, C, D, F) are set at the instructor’s discretion; A+ goes to the top 5% (no other +/- grades).
+A **minimum 65% on the final exam** is required to pass, ensuring core concept mastery. Below 65%, your grade is capped at D unless special circumstances apply (contact instructor). Letter grades (A, B, C, D, F) are set at the instructor’s discretion; A+ goes to the top 5%. Standard scale otherwise.
 
 ### LeetCode + Mock Interview(10%)
 Complete 10 medium LeetCode problems from the assigned list (on the course website) to build algorithmic skills aligned with course topics and exams.
