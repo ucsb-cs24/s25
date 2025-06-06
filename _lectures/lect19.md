@@ -4,8 +4,8 @@ num: "lect18"
 desc: "Week 10: Final Practice"
 ready: true
 pdfurl: /lectures/CS24_FinalPractice.pdf
-annotatedpdfurl: /lectures/CS24_Lecture19_ann.pdf
-annotatedready: false
+annotatedpdfurl: /lectures/CS24_FinalPractice_ann.pdf
+annotatedready: true
 ---
 
 # Code from lecture
